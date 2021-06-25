@@ -16,6 +16,16 @@ What is even better is that the dropdown menu is fully compatible with keyboard 
 ![keyboard focus](.readme/focus.png)
 ![dropdown menu](.readme/navbar.png)
 
+### Browser Support
+
+| OS         | Chrome  | Firefox  | Edge     | Opera | IE11 |
+| -------- | ------- | -------- | -------- | ---- |  ---- |
+| Android  | Yes     | Yes      | Yes      | Yes  |  Yes  | 
+| iOS      | Yes     | Yes      | Yes      | Yes  |  Yes  | 
+| Windows  | Yes     | Yes      | Yes      | Yes  |  Yes  | 
+| Mac      | Yes     | Yes      | Yes      | Yes  |  Yes  | 
+
+
 <hr/>
 
 ![CSS Validator](https://jigsaw.w3.org/css-validator/images/vcss-blue)
