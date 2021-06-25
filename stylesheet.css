@@ -1,17 +1,11 @@
-body {font-family: Arial, helvetica, sans-serif;}
-
 .checkdown-wrapper {
   position: relative;
   display: table;
 }
 
 .checkdown-content {
-  white-space: nowrap;
   position: absolute;
-  background: #333;
   display: none;
-  padding: 10px;
-  color: #fff;
 }
 
 #checkdown {
@@ -19,17 +13,11 @@ body {font-family: Arial, helvetica, sans-serif;}
   -moz-appearance: none;
   appearance: none;
   position: absolute;
-  cursor: pointer;
   height: 100%;
   width: 100%;
-  z-index: 1;
   margin: 0;
 }
-
-.checkdown-label {display: block;}
 
 #checkdown::-ms-check {display: none;}
 
 #checkdown:checked ~ .checkdown-content {display: block;}
-
-#checkdown:checked ~ label svg {transform: rotate(180deg);}
