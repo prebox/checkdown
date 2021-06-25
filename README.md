@@ -11,7 +11,7 @@ Others open on click by using links and focus-within which might not be supporte
 The checkbox element is cross browser compatible and is incredible reliable!
 
 There is no "hack" involved, just a cleaver use of HTML elements.<br/>
-What is even better is that the dropdown menu is fully compatible with keyboard interactions. See images below:
+What is even better is that the dropdown menu is fully compatible with keyboard interactions.
 
 ![keyboard focus](.readme/focus.png)
 ![dropdown menu](.readme/navbar.png)
