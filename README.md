@@ -1,7 +1,7 @@
 # ✔ Pure CSS
 
-![License](https://img.shields.io/github/license/prebox/checkdown.svg) ![Size](https://img.shields.io/github/languages/code-size/prebox/checkdown)<br/>
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white)
+[![License](https://img.shields.io/github/license/prebox/checkdown.svg)](./LICENSE) [![Size](https://img.shields.io/github/languages/code-size/prebox/checkdown)](.)<br/>
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white)](./index.html) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white)](./stylesheet.css)
 
 ### Overview
 
@@ -30,4 +30,4 @@ To change the style of the dropdown container add your style to the `checkdown-c
 
 <hr/>
 
-![CSS Validator](https://jigsaw.w3.org/css-validator/images/vcss-blue)
+[![CSS Validator](https://jigsaw.w3.org/css-validator/images/vcss-blue)](https://jigsaw.w3.org/css-validator/)
