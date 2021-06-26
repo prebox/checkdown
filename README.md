@@ -1,6 +1,6 @@
 # ✔ Pure CSS
 
-[![License](https://img.shields.io/github/license/prebox/checkdown.svg)](./LICENSE) [![Size](https://img.shields.io/github/languages/code-size/prebox/checkdown)](#)<br/>
+[![License](https://img.shields.io/github/license/prebox/checkdown.svg)](./LICENSE) [![HTML Validator](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fprebox%2Fcheckdown%2Fmain%2Findex.html)](https://validator.nu/) [![Size](https://img.shields.io/github/languages/code-size/prebox/checkdown)](#)<br/>
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white)](./index.html) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white)](./stylesheet.css)
 
 ### Overview
