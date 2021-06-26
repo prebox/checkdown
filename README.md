@@ -1,6 +1,6 @@
 # ✔ Pure CSS
 
-[![License](https://img.shields.io/github/license/prebox/checkdown.svg)](./LICENSE) [![Size](https://img.shields.io/github/languages/code-size/prebox/checkdown)](.)<br/>
+[![License](https://img.shields.io/github/license/prebox/checkdown.svg)](./LICENSE) [![Size](https://img.shields.io/github/languages/code-size/prebox/checkdown)](#)<br/>
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white)](./index.html) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white)](./stylesheet.css)
 
 ### Overview
@@ -8,8 +8,8 @@
 Checkdown is a pure CSS dropdown menu.<br/>
 It is cross browser compatible and supports keyboard interaction.
 
-![keyboard focus](.readme/focus.png)
-![dropdown menu](.readme/navbar.png)
+[![keyboard focus](.readme/focus.png)](#)
+[![dropdown menu](.readme/navbar.png)](#)
 
 ### Browser Support
 
