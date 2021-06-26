@@ -19,5 +19,4 @@
 }
 
 #checkdown::-ms-check {display: none;}
-
 #checkdown:checked ~ .checkdown-content {display: block;}
