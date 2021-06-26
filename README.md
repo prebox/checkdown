@@ -1,17 +1,12 @@
 # ✔ Pure CSS
 
-Checkdown is a pure CSS dropdown menu that utilizes the checkbox element.
- 
-Why checkbox? A checkbox is used in order to reliably switch between an open and closed state.
+![License](https://img.shields.io/github/license/prebox/checkdown.svg) ![Size](https://img.shields.io/github/languages/code-size/prebox/checkdown)<br/>
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white)
 
-There are many other CSS tricks out there to create pure CSS dropdown menus.<br/>
-Many of them opens on mouse hover. This is not always desirable.<br/>
-Others open on click by using links and focus-within which might not be supported by older browsers.<br/>
+### Overview
 
-The checkbox element is cross browser compatible and is incredible reliable!
-
-There is no "hack" involved, just a clever use of HTML elements.<br/>
-What is even better is that the dropdown menu is fully compatible with keyboard interactions.
+Checkdown is a pure CSS dropdown menu.<br/>
+It is cross browser compatible and supports keyboard interaction.
 
 ![keyboard focus](.readme/focus.png)
 ![dropdown menu](.readme/navbar.png)
@@ -24,6 +19,13 @@ What is even better is that the dropdown menu is fully compatible with keyboard 
 | iOS      | Yes     | Yes      | Yes      | Yes  |  Yes  | 
 | Windows  | Yes     | Yes      | Yes      | Yes  |  Yes  | 
 | Mac      | Yes     | Yes      | Yes      | Yes  |  Yes  | 
+
+### Customization
+
+Checkdown comes completely unstyled.<br/>
+This makes it easier to add your own style.<br/>
+To change the style on the dropdown button you need to add your style to the `checkdown-label` class.<br/>
+To change the style on the dropdown container you need to add your style to the `checkdown-content` class.
 
 
 <hr/>
