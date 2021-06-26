@@ -24,8 +24,8 @@ It is cross browser compatible and supports keyboard interaction.
 
 Checkdown comes completely unstyled.<br/>
 This makes it easier to add your own style.<br/>
-To change the style on the dropdown button you need to add your style to the `checkdown-label` class.<br/>
-To change the style on the dropdown container you need to add your style to the `checkdown-content` class.
+To change the style of the dropdown button add your style to the `checkdown-label` class.<br/>
+To change the style of the dropdown container add your style to the `checkdown-content` class.
 
 
 <hr/>
