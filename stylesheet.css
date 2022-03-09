@@ -20,3 +20,4 @@
 
 #checkdown::-ms-check {display: none;}
 #checkdown:checked ~ .checkdown-content {display: block;}
+#checkdown:checked ~ .checkdown-arrow svg {transform: rotate(180deg);}
